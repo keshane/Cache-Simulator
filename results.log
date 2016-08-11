@@ -1,0 +1,264 @@
+===============Configuration A: 64 Ki, 4-way, 8-byte blocks, 2048 sets===============
+standard
+art-100M.trace-ld-st.txt.gz
+hits: 1629099, misses: 18259018
+
+gcc-10M.trace-ld-st.txt.gz
+hits: 3117667, misses: 22491
+
+gcc-50M.trace-ld-st.txt.gz
+hits: 15610891, misses: 95974
+
+go-100M.trace-ld-st.txt.gz
+hits: 35450076, misses: 47245
+
+hmmer-100M.trace-ld-st.txt.gz
+hits: 39437847, misses: 2543164
+
+libquantum-100M.trace-ld-st.txt.gz
+hits: 21878824, misses: 8382092
+
+mcf-100M.trace-ld-st.txt.gz
+hits: 21971801, misses: 10390280
+
+sjeng-100M.trace-ld-st.txt.gz
+hits: 26672568, misses: 125469
+
+sphinx3-100M.trace-ld-st.txt.gz
+hits: 33049122, misses: 92866
+
+
+robinhood
+art-100M.trace-ld-st.txt.gz
+hits: 1629099, misses: 18259018
+
+gcc-10M.trace-ld-st.txt.gz
+hits: 3118178, misses: 21980
+
+gcc-50M.trace-ld-st.txt.gz
+hits: 15591614, misses: 115251
+
+go-100M.trace-ld-st.txt.gz
+hits: 35448022, misses: 49299
+
+hmmer-100M.trace-ld-st.txt.gz
+hits: 39401211, misses: 2579800
+
+libquantum-100M.trace-ld-st.txt.gz
+hits: 21878806, misses: 8382110
+
+mcf-100M.trace-ld-st.txt.gz
+hits: 21113482, misses: 11248599
+
+sjeng-100M.trace-ld-st.txt.gz
+hits: 26720769, misses: 77268
+
+sphinx3-100M.trace-ld-st.txt.gz
+hits: 33049033, misses: 92955
+
+
+zcache
+art-100M.trace-ld-st.txt.gz
+hits: 1629921, misses: 18258196
+
+gcc-10M.trace-ld-st.txt.gz
+hits: 3114287, misses: 25871
+
+gcc-50M.trace-ld-st.txt.gz
+hits: 15592314, misses: 114551
+
+go-100M.trace-ld-st.txt.gz
+hits: 35285043, misses: 212278
+
+hmmer-100M.trace-ld-st.txt.gz
+hits: 36328748, misses: 5652263
+
+libquantum-100M.trace-ld-st.txt.gz
+hits: 21878790, misses: 8382126
+
+mcf-100M.trace-ld-st.txt.gz
+hits: 22139878, misses: 10222203
+
+sjeng-100M.trace-ld-st.txt.gz
+hits: 26637549, misses: 160488
+
+sphinx3-100M.trace-ld-st.txt.gz
+hits: 32892502, misses: 249486
+
+
+===============Configuration B: 64 Ki, 4-way, 8-byte blocks, 4096 sets===============
+standard
+art-100M.trace-ld-st.txt.gz
+hits: 2935542, misses: 16952575
+
+gcc-10M.trace-ld-st.txt.gz
+hits: 3120634, misses: 19524
+
+gcc-50M.trace-ld-st.txt.gz
+hits: 15622752, misses: 84113
+
+go-100M.trace-ld-st.txt.gz
+hits: 35482695, misses: 14626
+
+hmmer-100M.trace-ld-st.txt.gz
+hits: 39832907, misses: 2148104
+
+libquantum-100M.trace-ld-st.txt.gz
+hits: 21878824, misses: 8382092
+
+mcf-100M.trace-ld-st.txt.gz
+hits: 22839468, misses: 9522613
+
+sjeng-100M.trace-ld-st.txt.gz
+hits: 26736212, misses: 61825
+
+sphinx3-100M.trace-ld-st.txt.gz
+hits: 33075357, misses: 66631
+
+
+robinhood
+art-100M.trace-ld-st.txt.gz
+hits: 2935542, misses: 16952575
+
+gcc-10M.trace-ld-st.txt.gz
+hits: 3120748, misses: 19410
+
+gcc-50M.trace-ld-st.txt.gz
+hits: 15621710, misses: 85155
+
+go-100M.trace-ld-st.txt.gz
+hits: 35484321, misses: 13000
+
+hmmer-100M.trace-ld-st.txt.gz
+hits: 39490225, misses: 2490786
+
+libquantum-100M.trace-ld-st.txt.gz
+hits: 21878824, misses: 8382092
+
+mcf-100M.trace-ld-st.txt.gz
+hits: 21956935, misses: 10405146
+
+sjeng-100M.trace-ld-st.txt.gz
+hits: 26736350, misses: 61687
+
+sphinx3-100M.trace-ld-st.txt.gz
+hits: 33075343, misses: 66645
+
+
+zcache
+art-100M.trace-ld-st.txt.gz
+hits: 1751465, misses: 18136652
+
+gcc-10M.trace-ld-st.txt.gz
+hits: 3116272, misses: 23886
+
+gcc-50M.trace-ld-st.txt.gz
+hits: 15601754, misses: 105111
+
+go-100M.trace-ld-st.txt.gz
+hits: 35472581, misses: 24740
+
+hmmer-100M.trace-ld-st.txt.gz
+hits: 36951509, misses: 5029502
+
+libquantum-100M.trace-ld-st.txt.gz
+hits: 21889681, misses: 8371235
+
+mcf-100M.trace-ld-st.txt.gz
+hits: 22689328, misses: 9672753
+
+sjeng-100M.trace-ld-st.txt.gz
+hits: 26658424, misses: 139613
+
+sphinx3-100M.trace-ld-st.txt.gz
+hits: 32894023, misses: 247965
+
+
+===============Configuration C: 64 Ki, 4-way, 8-byte blocks, 8192 sets===============
+standard
+art-100M.trace-ld-st.txt.gz
+hits: 8502357, misses: 11385760
+
+gcc-10M.trace-ld-st.txt.gz
+hits: 3121133, misses: 19025
+
+gcc-50M.trace-ld-st.txt.gz
+hits: 15626502, misses: 80363
+
+go-100M.trace-ld-st.txt.gz
+hits: 35485066, misses: 12255
+
+hmmer-100M.trace-ld-st.txt.gz
+hits: 40116172, misses: 1864839
+
+libquantum-100M.trace-ld-st.txt.gz
+hits: 30211887, misses: 49029
+
+mcf-100M.trace-ld-st.txt.gz
+hits: 23404990, misses: 8957091
+
+sjeng-100M.trace-ld-st.txt.gz
+hits: 26740629, misses: 57408
+
+sphinx3-100M.trace-ld-st.txt.gz
+hits: 33076090, misses: 65898
+
+
+robinhood
+art-100M.trace-ld-st.txt.gz
+hits: 8296603, misses: 11591514
+
+gcc-10M.trace-ld-st.txt.gz
+hits: 3121133, misses: 19025
+
+gcc-50M.trace-ld-st.txt.gz
+hits: 15626555, misses: 80310
+
+go-100M.trace-ld-st.txt.gz
+hits: 35485073, misses: 12248
+
+hmmer-100M.trace-ld-st.txt.gz
+hits: 39922477, misses: 2058534
+
+libquantum-100M.trace-ld-st.txt.gz
+hits: 30156309, misses: 104607
+
+mcf-100M.trace-ld-st.txt.gz
+hits: 22697105, misses: 9664976
+
+sjeng-100M.trace-ld-st.txt.gz
+hits: 26740597, misses: 57440
+
+sphinx3-100M.trace-ld-st.txt.gz
+hits: 33076090, misses: 65898
+
+
+zcache
+art-100M.trace-ld-st.txt.gz
+hits: 10100566, misses: 9787551
+
+gcc-10M.trace-ld-st.txt.gz
+hits: 3116298, misses: 23860
+
+gcc-50M.trace-ld-st.txt.gz
+hits: 15607389, misses: 99476
+
+go-100M.trace-ld-st.txt.gz
+hits: 35475371, misses: 21950
+
+hmmer-100M.trace-ld-st.txt.gz
+hits: 37693131, misses: 4287880
+
+libquantum-100M.trace-ld-st.txt.gz
+hits: 23571453, misses: 6689463
+
+mcf-100M.trace-ld-st.txt.gz
+hits: 23082932, misses: 9279149
+
+sjeng-100M.trace-ld-st.txt.gz
+hits: 26667084, misses: 130953
+
+sphinx3-100M.trace-ld-st.txt.gz
+hits: 32952528, misses: 189460
+
+
